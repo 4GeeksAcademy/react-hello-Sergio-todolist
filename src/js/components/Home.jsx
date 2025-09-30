@@ -5,7 +5,7 @@ import { Todolist } from "./Todolist";
 const Home = () => {
 	return (
 		<section>
-			<Todolist></Todolist>
+			<Todo />
 		</section>
 	);
 };
